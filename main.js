@@ -26,5 +26,5 @@ form.addEventListener('submit', (e) => {
 
 document.querySelector('.member input[type="button"]').addEventListener('click', () => {
     // 회원가입 페이지로 이동
-    window.location.href = 'register.html';
+    window.location.href = 'https://chaeliwon.github.io/minip2/';
 });
